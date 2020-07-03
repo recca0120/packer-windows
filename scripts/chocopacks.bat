@@ -1,5 +1,5 @@
 :: Ensure C:\Chocolatey\bin is on the path
-set /p PATH=%PATH%;C:\ProgramData\chocolatey\
+set PATH=%PATH%;C:\ProgramData\chocolatey\
 echo %PATH%
 
 :: Install all the things; for example:
